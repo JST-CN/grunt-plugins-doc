@@ -1,0 +1,6 @@
+[submodule "grunt-contrib-cssmin/original"]
+	path = grunt-contrib-cssmin/original
+	url = https://github.com/gruntjs/grunt-contrib-cssmin.git
+[submodule "grunt-contrib-jshint/original"]
+	path = grunt-contrib-jshint/original
+	url = https://github.com/gruntjs/grunt-contrib-jshint.git
