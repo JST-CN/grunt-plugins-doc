@@ -25,7 +25,7 @@
 
 可以使用 `grunt cssmin` 命令来运行一个 cssmin 任务。
 
-任务目标，需要压缩的文件以及其他配置选项在任务配置中指定，配置可参考 [任务配置说明](http://www.gruntjs.org/article/configuring_tasks.html) 。
+任务目标，需要压缩的文件以及其他配置选项可以在任务配置中指定，配置可参考 [任务配置说明](http://www.gruntjs.org/article/configuring_tasks.html) 。
 
 另外，文件压缩是通过 [clean-css](https://github.com/GoalSmashers/clean-css) 实现。
 
@@ -47,7 +47,9 @@
 
 扩展：clean-css建议使用 `/*! ... */` 注释来代替 `/* ... */`。
 
-keepSpecialComments的默认值 `*` 表示保留所有通过 `/*! ... */` 书写的注释，当设置值为 `1` 时只保留第一个通过 `/*! ... */` 书写的注释，设置值为 `0` 时表示全都不保留。
+- keepSpecialComments的默认值 `*` 表示保留所有通过 `/*! ... */` 书写的注释；
+- 当设置值为 `1` 时只保留第一个通过 `/*! ... */` 书写的注释，
+- 设置值为 `0` 时表示全都不保留。
 
 
 ### report 
