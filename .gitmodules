@@ -10,3 +10,6 @@
 [submodule "grunt-contrib-uglify/original"]
 	path = grunt-contrib-uglify/original
 	url = https://github.com/gruntjs/grunt-contrib-uglify.git
+[submodule "grunt-shell/original"]
+	path = grunt-shell/original
+	url = http://github.com/sindresorhus/grunt-shell.git
