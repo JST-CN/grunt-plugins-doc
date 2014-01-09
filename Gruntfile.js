@@ -22,10 +22,9 @@ module.exports = function(grunt) {
         copy : {
             template : {
                 expand : true,
-                src: "**",
+                src: ["**","**/.*"],
                 dest: "<%= plugin.name %>/",
-                cwd: "<%= template_folder %>/",
-                flatten: false
+                cwd: "<%= template_folder %>/"
             }
         }
     });
