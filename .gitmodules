@@ -4,3 +4,6 @@
 [submodule "grunt-contrib-jshint/original"]
 	path = grunt-contrib-jshint/original
 	url = https://github.com/gruntjs/grunt-contrib-jshint.git
+[submodule "grunt-contrib-watch/original"]
+	path = grunt-contrib-watch/original
+	url = https://github.com/gruntjs/grunt-contrib-watch.git
