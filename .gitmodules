@@ -13,3 +13,6 @@
 [submodule "grunt-shell/original"]
 	path = grunt-shell/original
 	url = http://github.com/sindresorhus/grunt-shell.git
+[submodule "grunt-contrib-less/original"]
+	path = grunt-contrib-less/original
+	url = https://github.com/gruntjs/grunt-contrib-less.git
