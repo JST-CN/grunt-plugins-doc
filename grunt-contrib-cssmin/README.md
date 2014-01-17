@@ -15,7 +15,7 @@
 
 安装好之后，可以在 Gruntfile 文件中使用如下方式载入cssmin插件:
 
-	grunt.loadNpmTasks('grunt-contrib-jshint');
+	grunt.loadNpmTasks('grunt-contrib-cssmin');
 
 也可以通过在 package.json 文件中配置插件依赖，然后使用 npm install 的方式统一安装所有依赖的插件。
 

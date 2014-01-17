@@ -3,7 +3,7 @@ grunt-plugins-doc
 
 **关于 Grunt**
 
-- [Grunt 中文社区](http://gruntjs.com/)
+- [Grunt 中文社区](http://gruntjs.org/)
 
 中文社区目前只提供了中文档翻译，与 Grunt 0.4.x版本对应。及个别更新的地方可能未及时对齐版本。
 

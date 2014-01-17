@@ -4,3 +4,15 @@
 [submodule "grunt-contrib-jshint/original"]
 	path = grunt-contrib-jshint/original
 	url = https://github.com/gruntjs/grunt-contrib-jshint.git
+[submodule "grunt-contrib-watch/original"]
+	path = grunt-contrib-watch/original
+	url = https://github.com/gruntjs/grunt-contrib-watch.git
+[submodule "grunt-contrib-uglify/original"]
+	path = grunt-contrib-uglify/original
+	url = https://github.com/gruntjs/grunt-contrib-uglify.git
+[submodule "grunt-shell/original"]
+	path = grunt-shell/original
+	url = http://github.com/sindresorhus/grunt-shell.git
+[submodule "grunt-contrib-less/original"]
+	path = grunt-contrib-less/original
+	url = https://github.com/gruntjs/grunt-contrib-less.git
