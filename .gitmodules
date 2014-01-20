@@ -16,3 +16,6 @@
 [submodule "grunt-contrib-less/original"]
 	path = grunt-contrib-less/original
 	url = https://github.com/gruntjs/grunt-contrib-less.git
+[submodule "grunt-contrib-compress/original"]
+	path = grunt-contrib-compress/original
+	url = https://github.com/gruntjs/grunt-contrib-compress.git
