@@ -2,8 +2,8 @@
 
 > 压缩（打包）文件和文件夹
 
-
 ## 新手上路
+
 本插件要求 Grunt `~0.4.0` （即0.4.x）版本。
 
 如果你没有使用过 [Grunt](http://www.gruntjs.org/)，请先阅读[新手上路](http://www.gruntjs.org/article/getting_started.html)，这篇文章会讲解如何创建Gruntfile，如何安装Grunt插件。如果你已经熟悉了Grunt的流程，可以通过下面的命令安装本插件：
@@ -21,7 +21,7 @@ grunt.loadNpmTasks('grunt-contrib-compress');
 *本插件是为Grunt 0.4.x设计的，如果你还在用v0.3.x的话，强烈建议你[升级](http://www.gruntjs.org/article/grunt.html)。如果你因为某些原因无法升级的话，请使用[v0.3.2](https://github.com/gruntjs/grunt-contrib-compress/tree/grunt-0.3-stable)。*
 
 
-## “压缩”任务
+## “压缩”(compress)任务
 
 _使用`grunt compress`命令运行本任务_
 
