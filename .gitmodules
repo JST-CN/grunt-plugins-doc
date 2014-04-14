@@ -19,3 +19,6 @@
 [submodule "grunt-contrib-compress/original"]
 	path = grunt-contrib-compress/original
 	url = https://github.com/gruntjs/grunt-contrib-compress.git
+[submodule "grunt-uncss/original"]
+	path = grunt-uncss/original
+	url = https://github.com/addyosmani/grunt-uncss.git
