@@ -176,7 +176,7 @@ uncss: {
 
 `grunt-uncss` 基于选择器检测，视图帮助大家生成只在项目中使用到的CSS。
 
-## 一些研究结果和替代解决方案
+## 一些研究成果和替代解决方案
 
 过去，为视图解决未使用的CSS的问题已经付出了很多努力。Opera创建了[ucss](https://github.com/operasoftware/ucss)，@aandand创建了[https://github.com/aanand/deadweight](https://github.com/aanand/deadweight)，Brian Le Roux创建了[CSS Slap Chop](https://github.com/brianleroux/css-slap-chop)，还有一系列静心制作的客户端解决方案，比如[Helium-CSS](https://github.com/geuis/helium-css)，
 [CSSESS](https://github.com/driverdan/cssess)以及基于Python的[mincss](http://www.peterbe.com/plog/mincss)。
