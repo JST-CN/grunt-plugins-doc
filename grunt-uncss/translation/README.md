@@ -23,7 +23,7 @@
 npm install grunt-uncss --save-dev
 ```
     
-安装好这个插件只有，你还需要在Gruntfile中加入这行JavaScript来启用这个插件。
+安装好这个插件之后，你还需要在Gruntfile中加入这行JavaScript来启用这个插件。
 
 ```js
 grunt.loadNpmTasks('grunt-uncss');
