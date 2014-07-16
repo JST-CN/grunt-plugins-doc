@@ -22,3 +22,6 @@
 [submodule "grunt-uncss/original"]
 	path = grunt-uncss/original
 	url = https://github.com/addyosmani/grunt-uncss.git
+[submodule "grunt-contrib-sass/original"]
+	path = grunt-contrib-sass/original
+	url = https://github.com/gruntjs/grunt-contrib-sass.git
